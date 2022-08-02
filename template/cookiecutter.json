@@ -1,0 +1,14 @@
+{
+    "repo_name": "mlflow-example",
+    "project_name": "MLFlow Example Project",
+    "author": "Emmanuel Ayumba",
+    "contributors": "Jay Finch, James Taylor, Allyna May",
+    "training_file": "train.py",
+    "hp1": "alpha",
+    "hp1_default": "0.5",
+    "hp2": "l1_ratio",
+    "hp2_default": "0.5",
+    "eval_met1": "rmse",
+    "eval_met2": "mae",
+    "eval_met3": "r2"
+}
